@@ -1,0 +1,6 @@
+.idea
+code/**/*.csv
+code/**/*.json
+code/**/*.sqlite
+code/**/*.exe
+code/**/tidytuesday/data
